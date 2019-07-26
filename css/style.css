@@ -1,0 +1,70 @@
+.navbar-brand a.navbar-item{
+    background-color: transparent!important;
+}
+.company-icon {
+    color: #23d160;
+    font-size: 28px;
+}
+.company-title {
+    margin-left: 5px;
+    font-size: 28px;
+    color: #000000;
+    font-weight: bold;
+}
+.ls-main-hero {
+    padding-top: 1rem;
+    position: relative;
+    overflow: hidden;
+}
+.ls-main-hero .hero-body {
+    padding-top: 1.875rem;
+    width: 100%;
+}
+.ls-main-hero .ls-banner {
+    margin-bottom: 2.5rem;
+}
+.ls-main-hero .left {
+    margin-top: 3.75rem;
+}
+.ls-banner {
+    background: rgba(0, 0, 0, 0.1);
+    padding: 0.3125rem;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+}
+.ls-banner .tag{
+    border-radius: 20px;
+    padding: 0.3125rem 0.625rem;
+    text-transform: uppercase;
+    margin-right: 0.625rem;
+    display: inline-block;
+    line-height: initial;
+}
+.card {
+    background-color: white;
+    box-shadow: 0 2px 3px rgba(10, 10, 10, 0.1), 0 0 0 1px rgba(10, 10, 10, 0.1);
+    color: rgba(10, 10, 10, 0.5);
+    max-width: 100%;
+    position: relative;
+}
+.ls-feature-card {
+    padding: 3.75rem 16% 2.5rem;
+    border-radius: 8px;
+    box-shadow: 0 0 26.19px 0.81px rgba(42, 74, 91, 0.08), 0 0 0 1px rgba(50, 46, 97, 0.1);
+}
+.image.is-159x159 {
+    height: 159px;
+    width: 159px;
+}
+.ls-feature-card .image {
+    margin: 0 auto 1rem;
+    max-width: 100%;
+}
+.media-content .description {
+    margin: 0 auto 1rem;
+}
+
+.media-content .feature {
+    font-weight: bold;
+}
