@@ -1,5 +1,5 @@
-.navbar-brand a.navbar-item{
-    background-color: transparent!important;
+a.navbar-item:focus {
+    background-color: #118fe4!important;
 }
 .company-icon {
     color: #23d160;
